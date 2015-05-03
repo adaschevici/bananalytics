@@ -7,3 +7,5 @@ What: twisted plugin to monitor things based on the server logs(configurable)
       No database
       No aditional configuration
       Just deploy and it should work based on the rules defined
+      
+Another thought, even better: Golang -> build, upload and it works 
